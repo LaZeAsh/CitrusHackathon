@@ -1,4 +1,4 @@
-# ORACLE
+# Sibyl
 developed by Ayush, Josh, Jakeb, and Ruth for ***CITRUS HACK 2022***
 
 ### Problem:
